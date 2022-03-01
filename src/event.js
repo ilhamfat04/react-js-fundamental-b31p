@@ -6,6 +6,10 @@ function Event() {
     return alert('Hallo everyone have nice day')
   }
 
+  // const Greeting = (params) => (event) =>{
+
+  // }
+
   return (
     // Code Inside div
     <div>
